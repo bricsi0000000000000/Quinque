@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Quinque.cpp
+F:\C++\Jatekok\Bead\Quinque\Quinque\Quinque.cpp(189,24): warning C4018: '<': signed/unsigned mismatch
+  Quinque.vcxproj -> F:\C++\Jatekok\Bead\Quinque\Quinque\Debug\Quinque.exe
